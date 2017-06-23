@@ -2,7 +2,7 @@
 
 Login to launch the [Dashboard](https://agarciamog.github.io/incontact-dashboard/redirect).
 
-[TEST](https://agarciamog.github.io/incontact-dashboard/test.xml)
+[Angular Tour of Heroes](https://agarciamog.github.io/angular-tour-of-heroes/)
 
 You can use the [editor on GitHub](https://github.com/agarciamog/incontact-dashboard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
