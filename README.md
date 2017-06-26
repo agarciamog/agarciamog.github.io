@@ -5,10 +5,10 @@ Outside of work, nothing beats traveling, backpacking, and eating good food.
 
 ### [Resume](Resume.md)
 
-## Projects on GitHub
-[inContact Custom Dashboard](inContact-Custom-Dashboard.mds).
+### Projects on GitHub
+[inContact Custom Dashboard](inContact-Custom-Dashboard.md).
 
 [Angular Tour of Heroes](Angular-Tour-of-Heroes.md)
 
-## Upcoming
+### Upcoming
 Angular 2 Vs. React
