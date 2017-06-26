@@ -6,9 +6,9 @@ Outside of work, nothing beats traveling, backpacking, and eating good food.
 ### [Resume](Resume.md)
 
 ## Projects on GitHub
-[inContact Custom Dashboard](https://agarciamog.github.io/incontact-dashboard/redirect).
+[inContact Custom Dashboard](inContact-Custom-Dashboard.mds).
 
-[Angular Tour of Heroes](https://agarciamog.github.io/angular-tour-of-heroes/)
+[Angular Tour of Heroes](Angular-Tour-of-Heroes.md)
 
 ## Upcoming
 Angular 2 Vs. React
