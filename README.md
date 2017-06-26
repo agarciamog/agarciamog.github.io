@@ -1,8 +1,9 @@
 ## About Me
-As a professional, I enjoy tackling challenges and projects that apply software development in innovative and meaningful ways. During my tenure at inContact, Inc. I have had the opportunity to build applications that change how organizations 
+As a professional, I enjoy tackling challenges and projects that apply software development in innovative and meaningful ways. During my tenure at inContact, Inc. I have had the opportunity to build applications that are scalable, incorporate redundancy and leverage customers' APIs.
 
-In my everyday life, I've developed a passion for traveling, backpacking, and (add something you love)
-[Link to Resume](Resume.md)
+Outside of work, nothing beats traveling, backpacking, and eating good food.
+
+#### [Resume](Resume.md)
 
 Login to launch the [Dashboard](https://agarciamog.github.io/incontact-dashboard/redirect).
 
