@@ -1,4 +1,4 @@
-<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="icon" type="image/png" href="https://agarciamog.github.io/favicon.png">
 
 ## About Me
 
