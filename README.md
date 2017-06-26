@@ -1,5 +1,7 @@
 ## About Me
 
+[Link to Resume](Resume.md)
+
 Login to launch the [Dashboard](https://agarciamog.github.io/incontact-dashboard/redirect).
 
 [Angular Tour of Heroes](https://agarciamog.github.io/angular-tour-of-heroes/)
