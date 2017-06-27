@@ -5,7 +5,7 @@ Outside of work, nothing beats traveling, backpacking, and eating good food.
 
 ### [![Resume](https://agarciamog.github.io/resume.png)](Resume.html) [Resume](Resume.md)
 
-### Projects on GitHub
+### ![Projects](https://agarciamog.github.io/github.png)] Projects on GitHub
 [inContact Custom Dashboard](inContact-Custom-Dashboard.md).
 
 [Angular Tour of Heroes](Angular-Tour-of-Heroes.md)
