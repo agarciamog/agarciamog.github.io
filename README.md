@@ -7,3 +7,5 @@ Outside of work, nothing beats traveling, backpacking, and eating great food.
 ### [![Resume](https://agarciamog.github.io/img/resume.png)](Resume.html) [Resume](Resume.md)
 
 ### [![GitHub](https://agarciamog.github.io/img/github.png)](Projects.html) [Projects on GitHub](Projects.md)
+
+### [![Code School](https://agarciamog.github.io/img/codeschool.png)](https://www.codeschool.com/users/3450500) [Code School Coursework](https://www.codeschool.com/users/3450500)
