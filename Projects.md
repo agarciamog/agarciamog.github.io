@@ -15,4 +15,5 @@ The dashboard is a demo of inContact's RESTful API and various jQuery concepts l
 
 #### Upcoming
 React: Build using React
+
 Angular 2 vs React: Compare and contrast
