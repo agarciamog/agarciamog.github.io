@@ -1,7 +1,7 @@
 ## Projects on GitHub
 
 #### Angular Tour of Heroes
-Angular is a popular Javascript framework by Google for building web applications. With Angular and TypeScript (a Javascript superset), developers are able to write object oriented web applications with ease. In Angular Tour of Heroes I built an Angular application that demos modules, components, two-way databinding, event handling, templates, in-memory API, decorators, promises, and routing. The application allows users to select and edit heroes, while navigating through views using Angular Routes. You can view the source code to the project [here](https://github.com/agarciamog/angular-tour-of-heroes).
+Angular is a popular Javascript framework by Google for building web applications. With Angular and TypeScript (a Javascript superset), developers are able to write object oriented web applications with ease. In Angular Tour of Heroes I built an Angular application that demos modules, components, two-way databinding, event handling, templates, in-memory API, decorators, promises, and routing from Angular's Tutorial. The application allows users to select and edit heroes, while navigating through views using Angular Routes. You can view the source code to the project [here](https://github.com/agarciamog/angular-tour-of-heroes).
 
 [Launch Angular Application](https://github.com/agarciamog/angular-tour-of-heroes/tree/master/src/app).
 
