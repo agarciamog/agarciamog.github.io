@@ -3,7 +3,7 @@ As a professional, I enjoy tackling challenges and projects that apply software 
 
 Outside of work, nothing beats traveling, backpacking, and eating good food.
 
-### ![Resume](https://agarciamog.github.io/resume.png) [Resume](Resume.md)
+### [![Resume](https://agarciamog.github.io/resume.png)](Resume.md) [Resume](Resume.md)
 
 ### Projects on GitHub
 [inContact Custom Dashboard](inContact-Custom-Dashboard.md).
