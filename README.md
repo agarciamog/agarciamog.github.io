@@ -7,8 +7,8 @@ As a professional, I enjoy tackling challenges and projects that apply software 
 * Possess strong knowledge of Object Oriented Development in Java and design patterns.
 * Adept at working with JavaScript/ES2015 and related libraries/tools like Angular and jQuery.
 * Working knowledge of unit testing.
-* Able with HTML, CSS, SQL, Typescript and .NET/C#
-* Skilled in leadership, communication, self motivated, work ethic, time management, handling pressure, adaptability.
+* Experienced with HTML, CSS, SQL, Typescript and .NET/C#
+* Proficient skills in leadership, communication, self motivated, work ethic, time management, handling pressure, adaptability.
 
 ## Education
 **Bachelor of Science, Computer Information Systems, 2011** <br>
