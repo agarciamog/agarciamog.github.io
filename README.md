@@ -43,4 +43,4 @@ inContact, Inc., Sandy, Utah
 * Interviewed and selected engineers for ....
 
 ## Activities
-* Currently working toward Oracle Certified Associate, Java SE 7 Programmer.
+Currently working toward Oracle Certified Associate, Java SE 7 Programmer.
