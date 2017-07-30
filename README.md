@@ -9,7 +9,6 @@ As a professional, I enjoy tackling challenges and projects that apply software 
 * Working knowledge of unit testing
 * Comfortable working with HTML, CSS, SQL, Typescript and .NET/C#
 * Strong soft skills like leadership, communication, self motivated, work ethic, time management, handling pressure, adaptability.
-* [Projects on GitHub](Projects.md) [![GitHub](https://agarciamog.github.io/img/github.png)](Projects.html)
 
 ## Education
 **Bachelor of Science, Computer Information Systems, 2011** <br>
