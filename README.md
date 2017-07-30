@@ -1,19 +1,18 @@
 <img align="left" src="https://agarciamog.github.io/img/boss.png">
 ## About Me
-As a professional, I enjoy tackling challenges and projects that apply software development in innovative and meaningful ways. During my tenure at inContact, Inc., I've had the opportunity to build applications that are scalable, redundant, and leverage customers' APIs for world-class applications used by millions. Outside of work, nothing beats traveling, backpacking through wilderness, and eating great food.
+As a professional, I enjoy tackling challenges and projects that apply software development in innovative and meaningful ways. During my tenure at inContact, Inc., I've had the opportunity to build applications that are scalable, redundant, and leverage customers' APIs for world-class applications used by thousands. Take a look at my [projects on GitHub](Projects.md) [![GitHub](https://agarciamog.github.io/img/github.png)](Projects.html). Outside of work, nothing beats traveling, backpacking through wilderness, and eating great food.
 
-[![GitHub](https://agarciamog.github.io/img/github.png)](Projects.html) [Projects on GitHub](Projects.md)
-
-## Summary
-* Some words about me like skills and goals
-* Some words about me like skills and goals
-* Some words about me like skills and goals
-* Some words about me like skills and goals
-* Some words about me like skills and goals
-* Some words about me like skills and goals
+## Skills
+* Designed and developed applications using RESTful APIs and SOAP web services.
+* Strong knowledge of Object Oriented Development in Java and design patterns.
+* Adept at working with JavaScript/ES2015 and related libraries/tools like Angular and jQuery.
+* Working knowledge of unit testing
+* Comfortable working with HTML, CSS, SQL, Typescript and .NET/C#
+* Strong soft skills like leadership, communication, self motivated, work ethic, time management, handling pressure, adaptability.
+* [Projects on GitHub](Projects.md) [![GitHub](https://agarciamog.github.io/img/github.png)](Projects.html)
 
 ## Education
-**Bachelor of Science, Business Administration: Computer Information Systems, 2011** <br>
+**Bachelor of Science, Computer Information Systems, 2011** <br>
 California State Polytechnic University, Pomona
 GPA of 3.72 on a 4.0 scale
 
@@ -36,10 +35,10 @@ Guiang Corporation (Incubator Projects), Pomona, California
 **October 2009 - March 2011, Quality Assurance Technician** <br>
 CRMLS Inc., Pomona, California
 * Test California's largest real estate multiple listing service, along with other vendor applications for critical bugs and business rules using Firebug.
-* Design scripts using JavaScript to assist the compliance department process data integrity violations by automating common tasks.
+* Code scripts using JavaScript to assist the compliance department process data integrity violations by automating common tasks.
 
 **August 2011 - Current, Staff Software Integration Engineering** <br>
 inContact, Inc., Sandy, Utah
-* some stuff
+* some stuff  
 * some other stuff
-* something else
+* Interviewed and selected engineers for ....
