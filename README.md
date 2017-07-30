@@ -28,7 +28,7 @@ Oracle Certified Associate for the Java Platform, Standard Edition 2011
 ## Career History
 **August 2009 - May 2010, Software Development Internship** <br>
 Guiang Corporation (Incubator Projects), Pomona, California
-* Member of team assigned with porting mTools, a suite for moving files, contacts and settings, from Blackberry to Android.
+* Member of team assigned with porting mTools (a suite for moving files, contacts and settings) from Blackberry to Android.
 * Developed Android application with Java, using SVN for version control. Presented the finished product to a group of potential investors from various industries.
 
 **October 2009 - March 2011, Quality Assurance Technician** <br>
