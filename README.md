@@ -1,6 +1,6 @@
 <img align="left" src="https://agarciamog.github.io/img/boss.png">
 ## About Me
-As a professional, I enjoy tackling challenges and projects that apply software development in innovative and meaningful ways. During my tenure at inContact, Inc., I've had the opportunity to build applications that are scalable, redundant, and leverage customers' APIs for world-class applications used by thousands. Take a look at my [projects on GitHub](Projects.md) [![GitHub](https://agarciamog.github.io/img/github.png)](Projects.html). Outside of work, nothing beats traveling, backpacking through wilderness, and eating great food.
+As a professional, I enjoy tackling challenges and projects that apply software development in innovative and meaningful ways. During my tenure at inContact, Inc., I've had the opportunity to build applications that are scalable, redundant, and leverage customers' APIs for world-class applications used by thousands. Take a look at my *[projects on GitHub](Projects.md)* [![GitHub](https://agarciamog.github.io/img/github.png)](Projects.html). Outside of work, nothing beats traveling, backpacking through wilderness, and eating great food.
 
 ## Skills
 * Designed and developed applications using RESTful APIs and SOAP web services.
@@ -42,3 +42,6 @@ inContact, Inc., Sandy, Utah
 * some stuff  
 * some other stuff
 * Interviewed and selected engineers for ....
+
+## Activities
+* Currently working toward Oracle Certified Associate, Java SE 7 Programmer.
