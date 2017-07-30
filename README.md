@@ -4,11 +4,11 @@ As a professional, I enjoy tackling challenges and projects that apply software 
 
 ## Skills
 * Designed and developed applications using RESTful APIs and SOAP web services.
-* Strong knowledge of Object Oriented Development in Java and design patterns.
+* Possess strong knowledge of Object Oriented Development in Java and design patterns.
 * Adept at working with JavaScript/ES2015 and related libraries/tools like Angular and jQuery.
-* Working knowledge of unit testing
-* Comfortable working with HTML, CSS, SQL, Typescript and .NET/C#
-* Strong soft skills like leadership, communication, self motivated, work ethic, time management, handling pressure, adaptability.
+* Working knowledge of unit testing.
+* Able with HTML, CSS, SQL, Typescript and .NET/C#
+* Skilled in leadership, communication, self motivated, work ethic, time management, handling pressure, adaptability.
 
 ## Education
 **Bachelor of Science, Computer Information Systems, 2011** <br>
