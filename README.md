@@ -29,17 +29,22 @@ Oracle Certified Associate for the Java Platform, Standard Edition 2011
 
 ## Career History
 **August 2009 - May 2010, Software Development Internship**
+
 Guiang Corporation (Incubator Projects), Pomona, California
 * Member of team assigned with porting mTools from Blackberry to Android.
 * Developed Android application with Java, using SVN for version control. Presented
 the finished product to a group of potential investors from various industries.
+
 **October 2009 - March 2011, Quality Assurance Technician**
+
 CRMLS Inc., Pomona, California
 * Test California's largest real estate multiple listing service, along with other vendor
 applications for critical bugs and business rules using Black-Box testing techniques.
 * Design scripts using AutoHotKey, an open source scripting language, to assist the
 compliance department process data integrity violations by automating common tasks.
+
 **August 2011 - Current, Staff Software Integration Engineering**
+
 inContact, Inc., Sandy, Utah
 * some stuff
 * some other stuff
