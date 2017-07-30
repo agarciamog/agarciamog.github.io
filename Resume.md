@@ -1,6 +1,6 @@
 <img align="left" hspace="20" src="https://agarciamog.github.io/img/boss.png">
 ## Summary
-Some brief text about myself and other things that do not fit into the bullets below and some other stuff.
+Some brief text about myself and other things that do not fit into the bullets below and some other stuff about me.
 * Some words about me like skills and goals
 * Some words about me like skills and goals
 * Some words about me like skills and goals
