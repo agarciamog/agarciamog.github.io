@@ -1,5 +1,6 @@
 <img align="left" hspace="20" src="https://agarciamog.github.io/img/boss.png">
 ## Summary
+Some brief text about myself and other things that do not fit into the bullets below
 * Some words about me like skills and goals
 * Some words about me like skills and goals
 * Some words about me like skills and goals
@@ -15,9 +16,13 @@
 California State Polytechnic University, Pomona
 GPA of 3.72 on a 4.0 scale
 
-Courses completed include:
-| Object-Oriented Development       |     Software Engineering Design and Analysis      |
-| Relational Database Development   |     Advanced Java Programming and Data Structures |
-| Client/Server Applications        |     Internetworking with Linux                    |
+| Courses completed include:                                                        |
+|:--------------------------------------------------------------------------------- |
+| Object-Oriented Development      | Software Engineering Design and Analysis       |
+| Relational Database Development  | Advanced Java Programming and Data Structures  |
+| Client/Server Applications       | Internetworking with Linux                     |
+
+## Certifications
+Oracle Certified Associate for the Java Platform, Standard Edition 2010
 
 ## Career History
