@@ -28,17 +28,17 @@ GPA of 3.72 on a 4.0 scale
 Oracle Certified Associate for the Java Platform, Standard Edition 2011
 
 ## Career History
-**August 2009 - May 2010, Software Developer Internship** <br>
+**Software Developer Internship, August 2009 - May 2010** <br>
 Guiang Corporation (Incubator Projects), Pomona, California
 * Member of team assigned with porting mTools (a suite for moving files, contacts and settings) from Blackberry to Android.
 * Developed Android application with Java, using SVN for version control. Presented the finished product to a group of potential investors from various industries.
 
-**October 2009 - March 2011, Quality Assurance Technician** <br>
+**Quality Assurance Technician, October 2009 - March 2011** <br>
 CRMLS Inc., Pomona, California
 * Test California's largest real estate multiple listing service, along with other vendor applications for critical bugs and business rules using Firebug.
 * Code scripts using JavaScript to assist the compliance department process data integrity violations by automating common tasks.
 
-**August 2011 - Current, Staff Software Integration Engineer** <br>
+**Staff Software Integration Engineer, August 2011 - Current** <br>
 inContact, Inc., Sandy, Utah
 * Research, design, and implement scalable applications that integrate into customer platforms through RESTful APIs and SOAP web services using an in-house .NET based programming language including SoapUI, Postman, SQL, JavaScript, CSS, and HTML.
 * Collaborate with developers, business analyst, and project managers to plan, design, and develop unique solutions to customer problems.
