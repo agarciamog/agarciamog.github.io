@@ -1,13 +1,15 @@
 <img align="left" src="https://agarciamog.github.io/img/boss.png">
 ## About Me
-As a professional, I enjoy tackling challenges and projects that apply software development in innovative and meaningful ways. During my tenure at inContact, Inc., I've had the opportunity to build applications that are scalable, redundant, and leverage customers' APIs for world-class applications used by thousands. Take a look at my *[projects on GitHub](Projects.md)* [![GitHub](https://agarciamog.github.io/img/github.png)](Projects.html). Outside of work, nothing beats traveling, backpacking through wilderness, and eating great food.
+As a professional, I enjoy tackling challenges and projects that apply software development in innovative and meaningful ways. During my tenure at inContact, Inc., I've had the opportunity to build applications that are scalable, redundant, and leverage customers' APIs for world-class applications used by thousands. Outside of work, nothing beats traveling, backpacking through wilderness, and eating great food.
+
+**[Projects on GitHub](Projects.md)** [![GitHub](https://agarciamog.github.io/img/github.png)](Projects.html).
 
 ## Skills
 * Designed and developed applications using RESTful APIs and SOAP web services.
 * Possess strong knowledge of Object Oriented Development in Java and design patterns.
 * Adept at working with JavaScript/ES2015 and related libraries/tools like Angular and jQuery.
 * Working knowledge of unit testing.
-* Experienced with HTML, CSS, SQL, Typescript and .NET/C#
+* Experienced with Git, HTML, CSS, SQL, Typescript and .NET/C#
 * Proficient skills in leadership, communication, self motivated, work ethic, time management, handling pressure, adaptability.
 
 ## Education
@@ -26,7 +28,7 @@ GPA of 3.72 on a 4.0 scale
 Oracle Certified Associate for the Java Platform, Standard Edition 2011
 
 ## Career History
-**August 2009 - May 2010, Software Development Internship** <br>
+**August 2009 - May 2010, Software Developer Internship** <br>
 Guiang Corporation (Incubator Projects), Pomona, California
 * Member of team assigned with porting mTools (a suite for moving files, contacts and settings) from Blackberry to Android.
 * Developed Android application with Java, using SVN for version control. Presented the finished product to a group of potential investors from various industries.
@@ -38,11 +40,12 @@ CRMLS Inc., Pomona, California
 
 **August 2011 - Current, Staff Software Integration Engineer** <br>
 inContact, Inc., Sandy, Utah
-* Research, design, and implement scalable applications that integrate into customer platforms through RESTful APIs and SOAP web services.
-* Collaborate
-* consult and some other stuff with customers
-* Lead team for testing
-* Interviewed and selected engineers for and mentor
+* Research, design, and implement scalable applications that integrate into customer platforms through RESTful APIs and SOAP web services using an in-house .NET based programming language. Tools and languages used include SOAPUI, Postman, SQL, JavaScript, CSS, and HTML.
+* Collaborate with developers, business analyst, and project managers to plan, design, and develop unique solutions to customer problems.
+* Consult and advise customers on optimal API functional design and use of inContact's RESTful APIs.
+* Lead team of engineers that designed a robust and complete testing plan that includes regression testing, bug tracker, and best practices that lead to better user acceptance testing results.
+* Write C# for custom behavior in existing code base and then checking code in using SVN.
+* Interview prospective engineers and mentor new hires. 
 
 ## Activities
 Currently working toward Oracle Certified Associate, Java SE 7 Programmer.
