@@ -36,11 +36,13 @@ CRMLS Inc., Pomona, California
 * Test California's largest real estate multiple listing service, along with other vendor applications for critical bugs and business rules using Firebug.
 * Code scripts using JavaScript to assist the compliance department process data integrity violations by automating common tasks.
 
-**August 2011 - Current, Staff Software Integration Engineering** <br>
+**August 2011 - Current, Staff Software Integration Engineer** <br>
 inContact, Inc., Sandy, Utah
-* some stuff  
-* some other stuff
-* Interviewed and selected engineers for ....
+* Research, design, and implement scalable applications that integrate into customer platforms through RESTful APIs and SOAP web services.
+* Collaborate
+* consult and some other stuff with customers
+* Lead team for testing
+* Interviewed and selected engineers for and mentor
 
 ## Activities
 Currently working toward Oracle Certified Associate, Java SE 7 Programmer.
