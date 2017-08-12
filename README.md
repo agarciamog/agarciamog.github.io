@@ -43,7 +43,7 @@ inContact, Inc., Sandy, Utah
 * Research, design, and implement scalable applications that integrate into customer platforms through RESTful APIs and SOAP web services using an in-house .NET based programming language including SoapUI, Postman, SQL, JavaScript, CSS, and HTML.
 * Collaborate with developers, business analyst, and project managers to plan, design, and develop unique solutions to customer problems.
 * Consult and advise customers on optimal API functional design and use of inContact's RESTful APIs.
-* Led team of engineers that designed a robust and complete testing plan that includes regression testing, bug tracker, and best practices that led to better user acceptance testing results across the department.
+* Led team that designed a robust and complete testing plan that includes regression testing, bug tracker, and best practices that led to better user acceptance testing results across the department.
 * Write C# for custom behavior in existing code base and then checking code in using SVN.
 * Interview prospective engineers and mentor new hires.
 
