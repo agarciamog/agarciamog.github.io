@@ -2,9 +2,9 @@
 ## About Me
 As a professional, I enjoy tackling challenges and projects that apply software development in innovative and meaningful ways. During my tenure at inContact, Inc., I've had the opportunity to build applications that are scalable, redundant, and leverage customers' APIs for world-class applications used by thousands. Outside of work, nothing beats traveling, backpacking through wilderness, and eating great food.
 
-**[Projects' Source on GitHub](https://github.com/agarciamog)**
+**[Projects' Source on GitHub](https://github.com/agarciamog)** <br>
 [![GitHub](https://agarciamog.github.io/img/github.png)](Projects.html).
-**[Highlighted Projects](Projects.md)** <br>
+**[Highlighted Projects](Projects.md)**
 
 ## Skills
 * Designed and developed applications using RESTful APIs and SOAP web services.
