@@ -30,16 +30,6 @@ GPA of 3.72 on a 4.0 scale
 Oracle Certified Associate for the Java Platform, Standard Edition 2011
 
 ## Career History
-**Software Developer Internship, August 2009 - May 2010** <br>
-Guiang Corporation (Incubator Projects), Pomona, California
-* Member of team assigned with porting mTools (a suite for moving files, contacts and settings) from Blackberry to Android.
-* Developed Android application with Java, using SVN for version control. Presented the finished product to a group of potential investors from various industries.
-
-**Quality Assurance Technician, October 2009 - March 2011** <br>
-CRMLS Inc., Pomona, California
-* Test California's largest real estate multiple listing service, along with other vendor applications for critical bugs and business rules using Firebug.
-* Code scripts using JavaScript to assist the compliance department process data integrity violations by automating common tasks.
-
 **Staff Software Integration Engineer, August 2011 - Current** <br>
 inContact, Inc., Sandy, Utah
 * Research, design, and implement scalable applications that integrate into customer platforms through RESTful APIs and SOAP web services using an in-house .NET based programming language including SoapUI, Postman, SQL, JavaScript, CSS, and HTML.
@@ -48,6 +38,16 @@ inContact, Inc., Sandy, Utah
 * Led team that designed a robust and complete testing plan that includes regression testing, bug tracker, and best practices that led to better user acceptance testing results across the department.
 * Write C# for custom behavior in existing code base and then checking code in using SVN.
 * Interview prospective engineers and mentor new hires.
+
+**Quality Assurance Technician, October 2009 - March 2011** <br>
+CRMLS Inc., Pomona, California
+* Test California's largest real estate multiple listing service, along with other vendor applications for critical bugs and business rules using Firebug.
+* Code scripts using JavaScript to assist the compliance department process data integrity violations by automating common tasks.
+
+**Software Developer Internship, August 2009 - May 2010** <br>
+Guiang Corporation (Incubator Projects), Pomona, California
+* Member of team assigned with porting mTools (a suite for moving files, contacts and settings) from Blackberry to Android.
+* Developed Android application with Java, using SVN for version control. Presented the finished product to a group of potential investors from various industries.
 
 ## Activities
 Currently working toward Oracle Certified Associate, Java SE 7 Programmer.
